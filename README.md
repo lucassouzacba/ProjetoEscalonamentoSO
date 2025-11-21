@@ -6,7 +6,7 @@ O grupo é composto por:
 
 *aluno1* </br>
 *aluno2* </br>
-*aluno3* </br>
+*Lucas Souza silva* </br>
 *Rafaela Matos Pereira* </br>
 
 
