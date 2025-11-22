@@ -4,8 +4,8 @@ Este é um projeto da disciplina de **Sistemas Operacionais** do curso de Análi
 
 O grupo é composto por:
 
-*aluno1* </br>
-*aluno2* </br>
+*Alana Gonçalves Cotrim* </br>
+*João Fernandes Neto Arnizaut Rocha* </br>
 *Lucas Souza Silva* </br>
 *Rafaela Matos Pereira* </br>
 
